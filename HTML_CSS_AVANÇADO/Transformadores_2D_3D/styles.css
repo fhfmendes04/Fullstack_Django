@@ -1,0 +1,19 @@
+div{
+   height: 200px;
+   width: 400px;
+   background-color: red;
+   border: 5px solid black;
+}
+
+body{
+	padding: 200px;
+}
+
+/*
+element.style{
+	transform: translate(x,y);
+	transform: translateX(), translateY(), rotate(angulo);
+}
+
+
+*/
