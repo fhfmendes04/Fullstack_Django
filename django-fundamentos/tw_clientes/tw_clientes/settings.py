@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'tw_django_fundamentos',
         'USER': 'root',
-        'PASSWORD': 'flatronm2380a',
+        'PASSWORD': 'coloca senha aqui',
         'HOST': 'localhost',
         'PORT': '3306'
     }
